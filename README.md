@@ -9,7 +9,7 @@
 **Domain:** https://securevault.online  
 **Contact Email (for SSL):** 35800944@student.murdoch.edu.au
 
-**Video Explainer (8–10 min):(https://drive.google.com/file/d/1HWlOyaZeHLoKPgayaEm1ZaxH6h170G3J/view?usp=sharing)
+**Video Explainer**:(https://drive.google.com/file/d/1HWlOyaZeHLoKPgayaEm1ZaxH6h170G3J/view?usp=sharing)
 **Total Cost of Ownership IaaS vs SaaS:** https://murdochuniversity-my.sharepoint.com/:p:/g/personal/35800944_student_murdoch_edu_au/ETMSNmlXJQhBmWpCHvem4bIBdh1WvSPf1XcagYAfBr4nIg
 
 ### Project Overview:
