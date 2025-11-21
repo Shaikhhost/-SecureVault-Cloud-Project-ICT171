@@ -31,7 +31,7 @@ Ensure you have:
 
 - Azure for Students account  
 - Domain purchased from Namecheap (securevault.online)  
-- Local terminal (macOS Terminal / Windows PowerShell)  
+- Local terminal ( Windows PowerShell)  
 - Website files ready locally in one folder
 
 <img width="1006" height="372" alt="image" src="https://github.com/user-attachments/assets/1f015ce5-2982-4253-b030-1f52f0868b5b" />
