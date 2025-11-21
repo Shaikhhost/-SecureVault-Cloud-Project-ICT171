@@ -9,7 +9,7 @@
 **Domain:** https://securevault.online  
 **Contact Email (for SSL):** 35800944@student.murdoch.edu.au
 
-**Video Explainer (8–10 min):** [Paste your YouTube / Google Drive link here after upload]  
+**Video Explainer (8–10 min):(https://drive.google.com/file/d/1HWlOyaZeHLoKPgayaEm1ZaxH6h170G3J/view?usp=sharing)
 **Total Cost of Ownership IaaS vs SaaS:** https://murdochuniversity-my.sharepoint.com/:p:/g/personal/35800944_student_murdoch_edu_au/ETMSNmlXJQhBmWpCHvem4bIBdh1WvSPf1XcagYAfBr4nIg
 
 ### Project Overview:
@@ -113,7 +113,8 @@ Installed Apache2 web server and Certbot for SSL
  <img width="1832" height="844" alt="image" src="https://github.com/user-attachments/assets/abe987a6-31d5-4647-93e1-c961d0b241b3" />
 
 
-	### Phase 4 – Domain Setup (Namecheap):
+
+### Phase 4 – Domain Setup (Namecheap):
 - Logged into Namecheap
 - Changed nameservers at registrar to Cloudflare’s  
 - Added two A records in Cloudflare dashboard:
